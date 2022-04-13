@@ -23,7 +23,3 @@ Where is
         --gac   - Include GAC
 
 ```
-
-**.NET5.0 support - BETA VERSION**
-
-You are also able to compile program to target .NET5.0. This is still in development, but, in case you want to play with it, you'll need to run Visual Studio 2019 and load DependencyWalker.Net5.sln. To quickly start to use it, get the latest [DependencyWalkerNetCore.zip](https://github.com/isindicic/DependencyWalker.Net/releases/download/1.0/DependencyWalkerNetCore.zip) and unzip it on a local drive. Zip file contain .NET5.0 runtime.
